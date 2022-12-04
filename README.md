@@ -79,10 +79,13 @@ raise Exception("""Your license does not allow generating programs with more tha
 ~~~
  
 ### STIMULATION:
-![173731298-32f98cfe-f38d-48e9-9ecf-092709981fdd](https://user-images.githubusercontent.com/88670187/205499273-4d6e5cb9-5ac5-440f-93e3-65564f660b63.png)
-![173731389-50e8c9ed-4e16-4a8f-839a-a63091f53d97](https://user-images.githubusercontent.![173731457-b9b9ba67-c790-4255-90a7-4fe69fd133d5](https://user-images.githubusercontent.com/88670187/205499285-33166e60-cb2f-4ac8-b689-4bae18e614a7.png)
-com/88670187/205499283-b3811c12-5b57-4b08-b93b-d0845f28a60b.png)
-![173731523-2ba0280f-b136-4071-a6b8-964a0f53b7cd](https://user-images.githubusercontent.com/88670187/205499286-71531a3f-d36f-4d7d-9af7-7c5bca883e1a.png)
+![173731298-32f98cfe-f38d-48e9-9ecf-092709981fdd](https://user-images.githubusercontent.com/88670187/205499336-0bcaa091-1460-4025-9b76-fec9b484ce38.png)
+
+![173731341-818ac242-bbfc-4f96-8aa5-5f54fda92833](https://user-images.githubusercontent.com/88670187/205499344-bf4de382-2600-4f00-a076-f49096a980de.png)
+![173731389-50e8c9ed-4e16-4a8f-839a-a63091f53d97](https://user-images.githubusercontent.com/88670187/205499354-149060c5-b8b3-4990-b6fa-6a8a4feceac5.png)
+![173731457-b9b9ba67-c790-4255-90a7-4fe69fd133d5](https://user-images.githubusercontent.com/88670187/205499361-4b7f624f-d438-4e76-a9eb-ed5d3d51dbc1.png)
+
+![173731523-2ba0280f-b136-4071-a6b8-964a0f53b7cd](https://user-images.githubusercontent.com/88670187/205499366-2a9386d0-bad8-4cfa-a00e-5b377d6dbe0f.png)
 
 ### RESULTS
 Thus, an environment for pick & place operations with Industrial Robot using Robo DK software is designed and simulated.
