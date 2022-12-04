@@ -32,7 +32,7 @@ Select File Open online library (Ctrl+Shift+O). A new nested window will appear 
 Add a Reference Frame A Reference frame allows placing objects with respect to a robot or with respect to other objects in the 3D space (including position and orientation). Note: More information about reference frames in RoboDK in the reference frames section. To add a new reference frame:
 	
 ### PROGRAM 
- 
+ ~~~
  import sys
 import os
 sys.path.append(os.path.abspath(r"""E:/RoboDK/Posts/""")) # temporarily add path to POSTS folder
@@ -76,12 +76,13 @@ r.ProgStart(r"""pick_B""")
 r.MoveJ(p(25.497,-57.3097,200.657,-90,-0.000220614,180),[32.8573,-74.9724,-134.453,-60.575,89.9999,32.8573],[0,1,0])
 
 raise Exception("""Your license does not allow generating programs with more than 50 lines of code. Upgrade your license to unlock this feature.""")
+~~~
  
 ### STIMULATION:
- 
+![173731298-32f98cfe-f38d-48e9-9ecf-092709981fdd](https://user-images.githubusercontent.com/88670187/205499273-4d6e5cb9-5ac5-440f-93e3-65564f660b63.png)
+![173731389-50e8c9ed-4e16-4a8f-839a-a63091f53d97](https://user-images.githubusercontent.![173731457-b9b9ba67-c790-4255-90a7-4fe69fd133d5](https://user-images.githubusercontent.com/88670187/205499285-33166e60-cb2f-4ac8-b689-4bae18e614a7.png)
+com/88670187/205499283-b3811c12-5b57-4b08-b93b-d0845f28a60b.png)
+![173731523-2ba0280f-b136-4071-a6b8-964a0f53b7cd](https://user-images.githubusercontent.com/88670187/205499286-71531a3f-d36f-4d7d-9af7-7c5bca883e1a.png)
 
-![p1](https://user-![p2](https://user-images.githubusercontent.com/88670187/205497554-6c676031-e55c-4b69-aa76-3ab36dacf948.jpg)
-images.githubusercontent.com/88670187/205497543-d3e6898f-2ecb-4315-b4ac-0dd1526ae237.jpg)
-
-### RESULTS :  
-An environment for pick & place operations with Industrial Robot has been created and the simulation has been completed successfully using Robo DK software.
+### RESULTS
+Thus, an environment for pick & place operations with Industrial Robot using Robo DK software is designed and simulated.
